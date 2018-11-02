@@ -1,0 +1,7 @@
+HTML basics structure
+creating favicon
+cache is a issue for favicon. be carefully
+
+paragraph tags
+image tag
+form tag
