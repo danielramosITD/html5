@@ -1,0 +1,55 @@
+
+h1,h2{ 
+    text-align: center; 
+}
+h1{
+	font: italic 4em Arial; 
+	color: rgb(147, 39, 143); 
+	margin: 1em 0 0em;
+}
+h2, a, p, li{
+	font-family: calibri ligth;
+	color: grey;
+	margin: 0em 0 0em; }
+ol{
+	font-size:  14px;
+}
+h3{
+	margin: 1em 0 1em;
+	text-decoration-line: underline;
+}
+
+img{
+	max-width: 150px;
+	max-height: 150px;
+
+}
+
+section{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+}
+iframe{
+	width: 1000px;
+	height: 500px;
+	border: 1 solid 
+}
+
+fieldset{
+	background-color: #f2f2f2;
+	border-collapse: collapse;
+	padding: 10px
+}
+
+.in,.inp{
+	width: 100%;
+	text-align: left;
+	background-color: #A9A9A9;
+}
+.inp{
+	height: 180px;
+	
+}
