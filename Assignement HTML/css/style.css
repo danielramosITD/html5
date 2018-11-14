@@ -1,0 +1,64 @@
+img{
+	max-width: 100px;
+	text-align: left;
+}
+p {
+	color: blue
+}
+table{
+	border-collapse: collapse;
+	text-align: center;
+}
+
+table, tr, td{ 
+	border: 1px solid black;
+ 	height: 15px;
+ 	width:600px;
+
+}
+
+.skill{
+	background-color: #D3D3D3;
+}
+.skill,.pc1{
+	font-weight: bold;
+}
+.skill,.pc,.pc1{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#header1{
+	color: orange;
+}
+
+.text{
+	background-color: #eee;
+}
+.blablabla is for caracteristics of the class
+
+.header2{
+	color: indigo;
+}
+
+.importantOne{
+	color: red
+}
+
+.location{
+	text-align: center;
+}
+this is for center the text or image
